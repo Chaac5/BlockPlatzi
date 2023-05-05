@@ -1,0 +1,21 @@
+body
+{
+    color: rgb(231, 148, 52);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #f10404;
+    margin: 0 auto;
+}
+#container
+{
+    font-size: 20px;
+}
